@@ -1,46 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Olivia Firth's Curriculum Vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Olivia Firth 
+406 548 4150 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="olivia.firth.r@gmail.com">olivia.firth.r@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Developmental math instructor at Montana State University / Gallatin College. 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - 2022`
+__Master's in Computer Science, Montana State University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020 - 2022`
+__College Teaching Certificate, Montana State University__
 
-- Sizar
+`2014 - 2018`
+__Bachelor's in Mathematics, Montana State University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016`
+__University of Eastern Finland__
 
-- Fellow
+## Instruction and Tutoring 
 
+`September 2022 - Current`
+__Developmental Math Instructor__						   
+- Gallatin College / Montana State University 
+- Taught multiple sections of introductory college algebra courses
 
+`Spring 2022`
+__College Teaching Practicum__ 						                           
+- College Teaching Certificate Program
+- Designed and led computer science based teacher training sessions for the professional development of K-12 educators local to Montana 
+ - Implemented classroom assessment techniques to evaluate learning of participating educators
+Individually designed classroom research project
+
+`Fall 2020`
+__Methods for CS Education Independent Study__  			                                           
+- Designed a graduate level course in CS Methods
+- Tailored course to new graduate students needing background in effectively communicating computational thinking and teachers looking to gain experience teaching computer science for professional development 
+- Studied methods for classroom equity, meeting the needs of a diverse classroom, and culturally sensitive STEM education
+
+`2019 - 2020` 
+__Math Center Tutor__                                                                                  
+- Gallatin College Math Help Center
+- Focus on students taking developmental math, algebra,  and pre-calculus courses 
+- One-on-one and group tutoring 
+
+`2017 - present`
+__Private Tutor__								                        
+- Independent tutor to middle school math students 
+- Montana State “Smarty Cats” tutor for pre-algebra through differential equations
+- Worked with a variety of students including nontraditional students, veterans, and college athletes 
+
+`Summer 2022`
+__Cycling Coach__ 	       	      			                                                      
+- Bozeman Youth Cycling 
+
+Youth Program Instructor							                            2017 - 2020
+Spire Climbing Center
+Summer Climbing Camp Instructor for ages 6 – 13
+Youth Program Instructor for ages 3 – 9 
 
 ## Awards
 
