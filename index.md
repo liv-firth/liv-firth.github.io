@@ -197,7 +197,7 @@ __Production Baker and Delivery Driver__
 `2016 - April 2018`
 __Customer Service__							                            	
 - Town and Country Foods							
-- Cashier and stocker responsible for helping customers with special orders and organizing stock. Also responsible for helping new employees and finding errors within the inventory system. 
+- Cashier and stocker responsible for helping customers with special orders and organizing stock. Responsible for helping new employees and finding errors within the inventory system. 
 
 `2013 - 2016`
 __Maintenance Crew Member__					                                        
