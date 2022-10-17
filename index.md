@@ -13,6 +13,8 @@ title: Olivia Firth's Curriculum Vitae
 
 `2019 - 2022`
 __Master's in Computer Science, Montana State University__
+- Thesis in CS Education
+- Advised by Dr. Brittany Fasy and Dr. Stacey Hancock
 
 `2020 - 2022`
 __College Teaching Certificate, Montana State University__
@@ -103,6 +105,7 @@ __Research Assistant__
 - Educated participating researchers on the CT scanner and the analysis of its results 
 - Organized lab facilities and research schedule 
 
+`Summer 2015`
 __Research Assistant__									
 - Montana State Mechanical and Industrial Engineering Department
 - Advised by Dr. Ron June 
@@ -124,42 +127,61 @@ __Research Intern__
 - Developed research paper explaining findings on glacial research 
 - Built testing equipment for use in avalanche research on weak layers in snow structure 
 
+## Coding and Modelling Experience 
+
+__Montana State University__
+- Experience with Java, Python, Latex, C++, Matlab, Git, Blender, Autodesk 3D Max, Adobe Illustrator, and Adobe Photoshop.  In addition, completed courses in mathematical modeling and numerical methods of linear algebra and optimization. 
+
+
+## Non-Degree Coursework
+
+__Montana State University__ 
+- Honors General Chemistry I and II, Physics (w/Calculus), General Ecology, General Microbiology, Organic Chemistry, Soils, Environmental Biogeochemistry, Ecosystem Biogeochemistry, Introduction to Biological Engineering, Principles of Living Systems and Biological Diversity, Environmental Science and Society
+
+__College Teaching Certification__
+- College Teaching, Social Justice Leadership in Education, STEM Education, Field Experience in College Teaching 
+
+__University of Eastern Finland__ 
+- Sustainable Water Management, Winter Ecology (including field excursions and data collection for project), Forest Zoology (graduate course including field research), Ecological Risk Assessment, Introduction to Forest Protection in Finland 
+
+## Presentations 
+
+`2021`
+__Grace Hopper Celebration of Women in Computing__
+- Conference Presentation Abstract: The state of middle school computer science (CS) has yet to be widely documented. In particular, research is needed to understand the challenges facing a diverse population of CS teachers. With the goal of learning to better support CS teachers, we have performed interviews and surveys amongst teachers throughout the country to illustrate the state of middle school CS and CS teacher self-efficacy.
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+Research and Engineering Apprenticeship Program/Army Education Outreach Program Internship
 
-Associate, *French Academy of Science*, Paris, France
+Women in Engineering Leadership Scholarship
 
+Member of Pi Mu Epsilon Mathematical Honor Society
 
+MSU Premiere Scholarship
+
+Athena Scholarship
+
+John L. Margaret Math Scholarship
+
+Montana Community Foundation Scholarship
+
+Christy Foundation Scholarship
+
+Gallatin Valley Agricultural Scholarship
+
+Anthony Gaffke Scholarship
 
 ## Publications
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Catherine M. Kirkland, Drew Norton, Olivia Firth, Joe Eldring, Alfred B. Cunningham, Robin Gerlach, and Adrienne J. Phillips, “Visualizing MICP with X-ray μ-CT to enhance 2 cement defect sealing”, International Journal of Greenhouse Gas Control.
 
-`1669`
-Lectiones opticæ.
+Johnson, J., Mailhiot, S.E., Stoltzfus, A., Firth, O., Miller, D.A., and June, R.K. Validation of bioluminescent reporter mouse for detection of early cartilage degeneration in osteoarthritis. in Annual Meeting of the Orthopaedic Research Society. 2016. Orlando, FL.
 
-etc. etc. etc.
+Awaiting Resubmission: Windchief, S., Do Amaral, B., Meyernik, M., McCoy, B., Firth, O., Fallis, T., Fasy, B.T., Hancock, S., Pearlman, D.,  Komlos, B.  “Weaving Storytelling into Computer Science: A Lesson Plan on Beaded Bags of the Columbia Plateau”
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+In Progress: Fasy, B.T., Firth, O.,  Hancock, S., Komlos, B. “The Storytelling Rubric: A Comprehensive Assessment of Student Alice Worlds” 
 
 
 
