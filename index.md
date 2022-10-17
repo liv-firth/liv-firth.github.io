@@ -3,16 +3,11 @@ layout: cv
 title: Olivia Firth's Curriculum Vitae
 ---
 # Olivia Firth 
-406 548 4150 
+(she / her) 
+(406) 548-4150 
 <div id="webaddress">
 <a href="olivia.firth.r@gmail.com">olivia.firth.r@gmail.com</a>
 </div>
-
-
-## Currently
-
-Developmental math instructor at Montana State University / Gallatin College. 
-
 
 ## Education
 
@@ -64,10 +59,72 @@ __Private Tutor__
 __Cycling Coach__ 	       	      			                                                      
 - Bozeman Youth Cycling 
 
-Youth Program Instructor							                            2017 - 2020
-Spire Climbing Center
-Summer Climbing Camp Instructor for ages 6 – 13
-Youth Program Instructor for ages 3 – 9 
+ `2017 - 2020`
+__Youth Program Instructor__							                           
+- Spire Climbing Center
+- Summer Climbing Camp Instructor for ages 6 – 13
+- Youth Program Instructor for ages 3 – 9 
+
+
+## Research Experience
+
+`Fall 2021 - Spring 2022`
+__Graduate Research Intern__      					                  
+- National Center for Atmospheric Research 
+- Advised by Dr. AJ Lauer
+- Intern to the CISL/CODE Team
+- Assisted with lesson development for weather station programming education modules 
+- Contributed to script writing for supercomputing museum exhibit
+- Participated in research intern selection process 
+
+`January 2020 - Spring 2022`
+__Graduate Research Assistant__					            
+- Montana State University Storytelling Project 
+- Advised by Dr. Brittany Fasy and Dr. Stacey Hancock 
+- Developed lesson plans to teach computing skills while integrating Montana content standards and Indian Education For All standards 
+- Created resources for teacher training and professional development 
+- Lead virtual teacher professional development sessions
+- Planned and co-lead student outreach events 
+- Built animation worlds for use in lesson plans and the Alice programming environment 
+- Developed graphic 3D models for use in Alice worlds using Blender and Autodesk 3D max 
+- Lead development of a new rubric and procedure for evaluating student work 
+- Aided in analysis of lesson pilot events 
+
+`2014 - 2018`
+__Research Assistant__								                          
+- Montana State University Sub-Zero Civil Engineering Lab
+- Advised by Dr. Ladean McKittrick 
+- Research Assistant to Civil Engineering graduate students studying bio mineralization and cement structure 
+- Primary Computed Tomography (CT) scan operator and analyst
+- Trained new snow science researchers on how to use CT scanner for their individual research needs 
+- Assisted with construction of biological museum exhibition for paleontology researchers using CT scans and 3D printing
+- Helped guide new REAP (incoming college freshman) interns through their research experience and projects
+- Worked with a variety of researchers from varying academic and cultural backgrounds 
+- Educated participating researchers on the CT scanner and the analysis of its results 
+- Organized lab facilities and research schedule 
+
+__Research Assistant__									
+- Montana State Mechanical and Industrial Engineering Department
+- Advised by Dr. Ron June 
+- Conducted data collection and analysis for osteoarthritis research using CT scans
+- Assisted in designing research methods to optimize use of computed tomography
+- National Science Foundation grant recipient
+- Worked in effective collaboration with mechanical engineering and biology researchers 
+- Participated in research meetings to present the current state of our research and receive feedback from the team
+
+`Summer 2014`
+__Research Intern__								                       
+- Montana State University Sub-Zero Civil Engineering Lab
+- REAP/AEOP Research Internship for Women in STEM
+- Advised by Dr. Dan Miller and  Dr. Ladean McKittrick 
+- Assisted Snow Science and Civil Engineering graduate students with snow structure and avalanche research
+- Studied snow science and avalanche research methodology
+- Conducted research on glacial ice structure, specifically density and pore space analysis, and presented findings to advising professors
+- Edited and revised CT scanner operation manual for lab
+- Developed research paper explaining findings on glacial research 
+- Built testing equipment for use in avalanche research on weak layers in snow structure 
+
+
 
 ## Awards
 
@@ -79,10 +136,6 @@ Associate, *French Academy of Science*, Paris, France
 
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -98,7 +151,6 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
 
 `1600`
 __Royal Mint__, London
