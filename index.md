@@ -136,18 +136,22 @@ Experience with Java, Python, Latex, C++, Matlab, Git, Blender, Autodesk 3D Max,
 ## Non-Degree Coursework
 
 __Montana State University__ 
+
 Honors General Chemistry I and II, Physics (w/Calculus), General Ecology, General Microbiology, Organic Chemistry, Soils, Environmental Biogeochemistry, Ecosystem Biogeochemistry, Introduction to Biological Engineering, Principles of Living Systems and Biological Diversity, Environmental Science and Society
 
 __College Teaching Certification__
+
 College Teaching, Social Justice Leadership in Education, STEM Education, Field Experience in College Teaching 
 
 __University of Eastern Finland__ 
+
 Sustainable Water Management, Winter Ecology (including field excursions and data collection for project), Forest Zoology (graduate course including field research), Ecological Risk Assessment, Introduction to Forest Protection in Finland 
 
 ## Presentations 
 
 `2021`
 __Grace Hopper Celebration of Women in Computing__
+
 Conference Presentation Abstract: The state of middle school computer science (CS) has yet to be widely documented. In particular, research is needed to understand the challenges facing a diverse population of CS teachers. With the goal of learning to better support CS teachers, we have performed interviews and surveys amongst teachers throughout the country to illustrate the state of middle school CS and CS teacher self-efficacy.
 
 
