@@ -28,7 +28,7 @@ __University of Eastern Finland__
 
 ## Instruction and Tutoring 
 
-`September 2022 - Current`
+`Fall 2022 - current`
 __Developmental Math Instructor__						   
 - Gallatin College / Montana State University 
 - Taught multiple sections of introductory college algebra courses
@@ -52,7 +52,7 @@ __Math Center Tutor__
 - Focus on students taking developmental math, algebra,  and pre-calculus courses 
 - One-on-one and group tutoring 
 
-`2017 - present`
+`2017 - 2020`
 __Private Tutor__								                        
 - Independent tutor to middle school math students 
 - Montana State “Smarty Cats” tutor for pre-algebra through differential equations
@@ -80,7 +80,7 @@ __Graduate Research Intern__
 - Contributed to script writing for supercomputing museum exhibit
 - Participated in research intern selection process 
 
-`January 2020 - Spring 2022`
+`2020 - Spring 2022`
 __Graduate Research Assistant__					            
 - Montana State University Storytelling Project 
 - Advised by Dr. Brittany Fasy and Dr. Stacey Hancock 
@@ -189,7 +189,7 @@ In Progress: Fasy, B.T., Firth, O.,  Hancock, S., Komlos, B. “The Storytelling
 
 ## Employment 
 
-`August 2018 - January 2020`
+`August 2018 - 2020`
 __Production Baker and Delivery Driver__			                        
 - On the Rise Bakery
 - Baker in charge of aiding customers and organizing or performing all stages of the bread making process for the day. In addition, trained to deliver and service bread orders when needed. 
