@@ -4,6 +4,7 @@ title: Olivia Firth's Curriculum Vitae
 ---
 # Olivia Firth 
 (she / her) 
+
 (406) 548-4150 
 <div id="webaddress">
 <a href="olivia.firth.r@gmail.com">olivia.firth.r@gmail.com</a>
@@ -22,7 +23,7 @@ __College Teaching Certificate, Montana State University__
 `2014 - 2018`
 __Bachelor's in Mathematics, Montana State University__
 
-`2016`
+`Spring 2016`
 __University of Eastern Finland__
 
 ## Instruction and Tutoring 
@@ -129,26 +130,25 @@ __Research Intern__
 
 ## Coding and Modelling Experience 
 
-__Montana State University__
-- Experience with Java, Python, Latex, C++, Matlab, Git, Blender, Autodesk 3D Max, Adobe Illustrator, and Adobe Photoshop.  In addition, completed courses in mathematical modeling and numerical methods of linear algebra and optimization. 
+Experience with Java, Python, Latex, C++, Matlab, Git, Blender, Autodesk 3D Max, Adobe Illustrator, and Adobe Photoshop.  In addition, completed courses in mathematical modeling and numerical methods of linear algebra and optimization. 
 
 
 ## Non-Degree Coursework
 
 __Montana State University__ 
-- Honors General Chemistry I and II, Physics (w/Calculus), General Ecology, General Microbiology, Organic Chemistry, Soils, Environmental Biogeochemistry, Ecosystem Biogeochemistry, Introduction to Biological Engineering, Principles of Living Systems and Biological Diversity, Environmental Science and Society
+Honors General Chemistry I and II, Physics (w/Calculus), General Ecology, General Microbiology, Organic Chemistry, Soils, Environmental Biogeochemistry, Ecosystem Biogeochemistry, Introduction to Biological Engineering, Principles of Living Systems and Biological Diversity, Environmental Science and Society
 
 __College Teaching Certification__
-- College Teaching, Social Justice Leadership in Education, STEM Education, Field Experience in College Teaching 
+College Teaching, Social Justice Leadership in Education, STEM Education, Field Experience in College Teaching 
 
 __University of Eastern Finland__ 
-- Sustainable Water Management, Winter Ecology (including field excursions and data collection for project), Forest Zoology (graduate course including field research), Ecological Risk Assessment, Introduction to Forest Protection in Finland 
+Sustainable Water Management, Winter Ecology (including field excursions and data collection for project), Forest Zoology (graduate course including field research), Ecological Risk Assessment, Introduction to Forest Protection in Finland 
 
 ## Presentations 
 
 `2021`
 __Grace Hopper Celebration of Women in Computing__
-- Conference Presentation Abstract: The state of middle school computer science (CS) has yet to be widely documented. In particular, research is needed to understand the challenges facing a diverse population of CS teachers. With the goal of learning to better support CS teachers, we have performed interviews and surveys amongst teachers throughout the country to illustrate the state of middle school CS and CS teacher self-efficacy.
+Conference Presentation Abstract: The state of middle school computer science (CS) has yet to be widely documented. In particular, research is needed to understand the challenges facing a diverse population of CS teachers. With the goal of learning to better support CS teachers, we have performed interviews and surveys amongst teachers throughout the country to illustrate the state of middle school CS and CS teacher self-efficacy.
 
 
 ## Awards
@@ -182,6 +182,23 @@ Johnson, J., Mailhiot, S.E., Stoltzfus, A., Firth, O., Miller, D.A., and June, R
 Awaiting Resubmission: Windchief, S., Do Amaral, B., Meyernik, M., McCoy, B., Firth, O., Fallis, T., Fasy, B.T., Hancock, S., Pearlman, D.,  Komlos, B.  “Weaving Storytelling into Computer Science: A Lesson Plan on Beaded Bags of the Columbia Plateau”
 
 In Progress: Fasy, B.T., Firth, O.,  Hancock, S., Komlos, B. “The Storytelling Rubric: A Comprehensive Assessment of Student Alice Worlds” 
+
+## Employment 
+
+`August 2018 - January 2020`
+__Production Baker and Delivery Driver__			                        
+- On the Rise Bakery
+- Baker in charge of aiding customers and organizing or performing all stages of the bread making process for the day. In addition, trained to deliver and service bread orders when needed. 
+
+`2016 - April 2018`
+__Customer Service__							                            	
+- Town and Country Foods							
+- Cashier and stocker responsible for helping customers with special orders and organizing stock. Also responsible for helping new employees and finding errors within the inventory system. 
+
+`2013 - 2016`
+__Maintenance Crew Member__					                                        
+- Bridger Creek Golf Course and Academy 
+- Seasonal crew worker responsible for industrial mowing, grounds keeping, and general maintenance. 
 
 
 
