@@ -31,31 +31,40 @@ __University of Eastern Finland__
 `Fall 2022 - current`
 __Developmental Math Instructor__						   
 - Gallatin College / Montana State University 
+
 - Taught multiple sections of introductory college algebra courses
 
 `Spring 2022`
 __College Teaching Practicum__ 						                           
 - College Teaching Certificate Program
+
 - Designed and led computer science based teacher training sessions for the professional development of K-12 educators local to Montana 
+
  - Implemented classroom assessment techniques to evaluate learning of participating educators
 Individually designed classroom research project
 
 `Fall 2020`
 __Methods for CS Education Independent Study__  			                                           
 - Designed a graduate level course in CS Methods
+
 - Tailored course to new graduate students needing background in effectively communicating computational thinking and teachers looking to gain experience teaching computer science for professional development 
+
 - Studied methods for classroom equity, meeting the needs of a diverse classroom, and culturally sensitive STEM education
 
 `2019 - 2020` 
 __Math Center Tutor__                                                                                  
 - Gallatin College Math Help Center
+
 - Focus on students taking developmental math, algebra,  and pre-calculus courses 
+
 - One-on-one and group tutoring 
 
 `2017 - 2020`
 __Private Tutor__								                        
 - Independent tutor to middle school math students 
+
 - Montana State “Smarty Cats” tutor for pre-algebra through differential equations
+
 - Worked with a variety of students including nontraditional students, veterans, and college athletes 
 
 `Summer 2022`
@@ -65,7 +74,9 @@ __Cycling Coach__
  `2017 - 2020`
 __Youth Program Instructor__							                           
 - Spire Climbing Center
+
 - Summer Climbing Camp Instructor for ages 6 – 13
+
 - Youth Program Instructor for ages 3 – 9 
 
 
@@ -74,58 +85,96 @@ __Youth Program Instructor__
 `Fall 2021 - Spring 2022`
 __Graduate Research Intern__      					                  
 - National Center for Atmospheric Research 
+
 - Advised by Dr. AJ Lauer
+
 - Intern to the CISL/CODE Team
+
 - Assisted with lesson development for weather station programming education modules 
+
 - Contributed to script writing for supercomputing museum exhibit
+
 - Participated in research intern selection process 
 
 `2020 - Spring 2022`
 __Graduate Research Assistant__					            
 - Montana State University Storytelling Project 
+
 - Advised by Dr. Brittany Fasy and Dr. Stacey Hancock 
+
 - Developed lesson plans to teach computing skills while integrating Montana content standards and Indian Education For All standards 
+
 - Created resources for teacher training and professional development 
+
 - Lead virtual teacher professional development sessions
+
 - Planned and co-lead student outreach events 
+
 - Built animation worlds for use in lesson plans and the Alice programming environment 
+
 - Developed graphic 3D models for use in Alice worlds using Blender and Autodesk 3D max 
+
 - Lead development of a new rubric and procedure for evaluating student work 
+
 - Aided in analysis of lesson pilot events 
 
 `2014 - 2018`
 __Research Assistant__								                          
 - Montana State University Sub-Zero Civil Engineering Lab
+
 - Advised by Dr. Ladean McKittrick 
+
 - Research Assistant to Civil Engineering graduate students studying bio mineralization and cement structure 
+
 - Primary Computed Tomography (CT) scan operator and analyst
+
 - Trained new snow science researchers on how to use CT scanner for their individual research needs 
-- Assisted with construction of biological museum exhibition for paleontology researchers using CT scans and 3D printing
+
+- Assisted with construction of biological museum exhibition for paleontology researchers using CT scans and 3D 
+printing
+
 - Helped guide new REAP (incoming college freshman) interns through their research experience and projects
+
 - Worked with a variety of researchers from varying academic and cultural backgrounds 
+
 - Educated participating researchers on the CT scanner and the analysis of its results 
+
 - Organized lab facilities and research schedule 
 
 `Summer 2015`
 __Research Assistant__									
 - Montana State Mechanical and Industrial Engineering Department
+
 - Advised by Dr. Ron June 
+
 - Conducted data collection and analysis for osteoarthritis research using CT scans
+
 - Assisted in designing research methods to optimize use of computed tomography
+
 - National Science Foundation grant recipient
+
 - Worked in effective collaboration with mechanical engineering and biology researchers 
+
 - Participated in research meetings to present the current state of our research and receive feedback from the team
 
 `Summer 2014`
 __Research Intern__								                       
 - Montana State University Sub-Zero Civil Engineering Lab
+
 - REAP/AEOP Research Internship for Women in STEM
+
 - Advised by Dr. Dan Miller and  Dr. Ladean McKittrick 
+
 - Assisted Snow Science and Civil Engineering graduate students with snow structure and avalanche research
+
 - Studied snow science and avalanche research methodology
+
 - Conducted research on glacial ice structure, specifically density and pore space analysis, and presented findings to advising professors
+
 - Edited and revised CT scanner operation manual for lab
+
 - Developed research paper explaining findings on glacial research 
+
 - Built testing equipment for use in avalanche research on weak layers in snow structure 
 
 ## Coding and Modelling Experience 
@@ -192,16 +241,19 @@ In Progress: Fasy, B.T., Firth, O.,  Hancock, S., Komlos, B. “The Storytelling
 `August 2018 - 2020`
 __Production Baker and Delivery Driver__			                        
 - On the Rise Bakery
+
 - Baker in charge of aiding customers and organizing or performing all stages of the bread making process for the day. In addition, trained to deliver and service bread orders when needed. 
 
 `2016 - April 2018`
 __Customer Service__							                            	
-- Town and Country Foods							
+- Town and Country Foods
+
 - Cashier and stocker responsible for helping customers with special orders and organizing stock. Responsible for helping new employees and finding errors within the inventory system. 
 
 `2013 - 2016`
 __Maintenance Crew Member__					                                        
 - Bridger Creek Golf Course and Academy 
+
 - Seasonal crew worker responsible for industrial mowing, grounds keeping, and general maintenance. 
 
 
